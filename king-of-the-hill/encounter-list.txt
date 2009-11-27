@@ -1,0 +1,51 @@
+ENCOUNTER LIST
+
+1. PROLOGUE-1: Getting onto the ships.
+2. PROLOGUE-2: On the ship.
+
+3. SHIP-1: Attack in moonlight.
+    On a successful repulse, go to encounter VILLAGE-1.
+4. SHIP-2: Docking at the village.
+    If the PCs take over and try to flee in the boat, 
+        go to encounter SHIP-3.
+    Depending on how much fighting you'd like to do, 
+        more fighting: go to encounter VILLAGE-1.
+        some social challenges: go to encounter VILLAGE-4.
+5. SHIP-3: The naval trap.
+    In this encounter, this ship *is* stopped, even if that requires
+    the ship to be holed and sunk. Note that unless the ship stops at
+    the village, it will go to this encounter anyway, and the PCs may
+    later encounter this ship along with the dead captain/crew.
+
+6. VILLAGE-1: A village captured.
+    The village is repressed, and the terrorisers - the bugbears -
+    immediately show up with their minions. The PCs have to fight
+    them.
+        If they instead escape to the boat, go to encounter SHIP-3.
+        PCs should NOT lose this encounter. The DM could have the
+        villagers join in - either a spontaneous "revolt" or an
+        attack by a well-trained militia in hiding, depending on
+        how much help the PCs need.
+
+7. VILLAGE-2: A village alone.
+    The village is now free, but the King will soon send his minions 
+    to recapture the victim. They must decide whether to barricade
+    the village or try to infiltrate the hill.
+
+
+X. HALFLING-1: Hide or strike.
+    The PCs are captured by the halflings. A major and influential
+    group of halflings is in charge, and immediately send word to
+    the King. Before the response returns - which might mean their
+    death - the PCs should plan their next move: to attack the
+    halflings and make a break for it, to try to win the halflings
+    onto their sides, or to go along with being captured for now
+    and see where it gets them (i.e. take an Extended Rest).
+        If PCs convince the moderate halflings to restore equamity,
+        we move to HALFLING-2. Otherwise, we'll probably end up
+        at DOCK-1.
+X. HALFLING-2: Freedom!
+    The moderate halflings and the PCs attack the King's Halflings.
+        If this encounter becomes too simple, the "response" might
+        return from the King -- sent by a few bugbears.
+
